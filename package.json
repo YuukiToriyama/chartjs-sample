@@ -1,0 +1,22 @@
+{
+	"name": "chartjs-sample",
+	"version": "1.0.0",
+	"description": "Chart.jsを使ってみる",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/YUUKIToriyama/chartjs-sample.git"
+	},
+	"author": "YUUKIToriyama",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/YUUKIToriyama/chartjs-sample/issues"
+	},
+	"homepage": "https://github.com/YUUKIToriyama/chartjs-sample#readme",
+	"dependencies": {
+		"chart.js": "^2.9.3"
+	}
+}
